@@ -1,4 +1,4 @@
-# awesomeWebDev
+# awesomeWebDev snippets
 Cool snippets for your web development.
 ### Recipe for responsive font system from [100% Responsive Typography System using a Modular Scale by Ricardo Zea](https://www.codementor.io/ricardozea/100-responsive-typography-system-using-a-modular-scale-s5rhft58g)
 
@@ -44,3 +44,9 @@ h1, h2, h3, h4, h5, h6 {
   margin: calc(12px + 1.05vw) 0; /* Responsive margins */
 }
 ```
+
+# awesomeWebDev links
+Cool links for your web development.
+
+## animations
+https://templatefor.net/css3-animation-examples-for-inspiration/?ref=webdesignernews.com
